@@ -12,7 +12,7 @@
 -  I am graduated in Electrical Engineering from NIT Agartala batch 2019-23, but keen interest in Data Structure, algorithms and Web Development.
 -  you can also reach out to me at
  <div id="badges">
-  <a href="https://www.linkedin.com/in/shivam-kumar-106283203/">
+  <a href="https://www.linkedin.com/in/shivam-kumar-chaurasia-106283203/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
