@@ -9,7 +9,7 @@
 
 - # I’m ****Shivam Kumar Chaurasia**** 
 -  a Passionate , Learner, achiever,  Goal Oriented Person.
--  I am graduated in Electrical Engineering from NIT Agartala batch 2019-23, but keen interest in Data Structure, algorithms and Web Development.
+-  I graduated in Electrical Engineering from NIT Agartala batch 2019-23, but keen interest in Data Structure, algorithms and Web Development.
 -  you can also reach out to me at
  <div id="badges">
   <a href="https://www.linkedin.com/in/shivam-kumar-chaurasia-106283203/"> 
